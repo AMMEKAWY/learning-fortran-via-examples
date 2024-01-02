@@ -1,4 +1,4 @@
-! this program print the fibonacci sequance till the desired number
+! this program print the fibonacci sequance till the desired term
 
 program fibonacci
 IMPLICIT none
