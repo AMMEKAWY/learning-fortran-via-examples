@@ -1,4 +1,4 @@
-!sample plotting program for plotting functions for using GNUPLOT later
+!sample plotting program for plotting functions using GNUPLOT later
 
 program functioneveluator
 IMPLICIT none
